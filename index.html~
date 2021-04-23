@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>La Leyenda del Choco</title>
+    <link href="styles/style.css" rel="stylesheet">
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:ital,wght@1,100&display=swap" rel="stylesheet">
+  </head>
+  <body>
+    <h1>Ex-Hacienda de Cuahuixtla, Ayala, Morelos</h1>
+    <h3>La Leyenda del Choco</h3>
+    <img src="images/Choco.jpg" width="512" height="270" alt="My test image">
+    <p><div style="text-align: justify;">En la Ex Hacienda de Coahuixtla, Ayala, Morelos. Una de las más prosperas de la región trabajaba una hermosa mujer; 
+    su belleza era tal que muchos hombres la pretendían, y ella siempre se negaba. Un día después de bañarse en el rio, 
+    se topó con un extraño forajido, montado en un enorme caballo negro. Que ofreció llevarla a casa, la joven rechazó sus 
+    primeras propuestas, pero al final terminó por aceptar.<br></div></p>
+    <img src="images/LEYENDA.jpg" width="512" height="270" alt="My test image">
+    <p><div style="text-align: justify;">Creyendo que todo había llegado hasta ahí, 
+    la muchacha se sorprendió al verlo con frecuencia, a final de cuentas, como todos los demás trataba de enamorarla. 
+    Pero a diferencia de los otros, él lo logró. La mujer quedó embarazada, y del sujeto ya no se supo más. 
+    El bebé nació a los 6 meses, pero era algo extraño, distinto a los demás, muy despierto y hábil. 
+    Cuando el niño cumplió 6 meses la madrina de la muchacha se dirigía hacia la iglesia para bautizarlo, 
+    pero cuando cruzaban el rio el bebé le dijo: <br> <i>– Mira madrina ya puedo hablar, ya tengo dientes, y te voy a matar</i>-, 
+    dicho esto, el bebé la mató y salto al rió, quedó incrustado en una piedra y después desapareció.
+    <br></div></p>
+    <img src="images/rio.jpg" width="512" height="270" alt="My test image">
+    <p><div style="text-align: justify;">Se rumora que aquella criatura era hijo del Diablo y que desde entonces se aparece en la hacienda, 
+    asustando y haciendo maldades a los trabajadores. Se le atribuyen también algunas muertes, y se le puede ver en las ruinas 
+    y los túneles de la ex hacienda jugando con los huesos de las personas que ahí han muerto.<br>Cuentan también que por los 
+    caminos rurales, se escucha el llanto de un bebé. Al seguirlo conduce hasta un recién nacido, aparentemente abandonado. 
+    Quienes lo han recogido para llevarlo ante la policía o al hospital más cercano. Después de cargarlo un rato, sienten un 
+    repentino dolor en su brazo. Al voltear, ven con horror que el bebé, lo muerde con sus muchas hileras de dientes, y
+    con voz ronca lanza todo tipo de insultos y amenazas.</div></p>
+    <video src="images/LA%20LEYENDA%20DEL%20CHOCO_%20PENTAGRAMA.mp4" autoplay controls loop width="400" height="200" preload="metadata"></video>
+    <div style="text-align: justify;">Para mayor información vaya al siguiente link:</div>
+    <a href="https://www.24morelos.com/la-historia-de-el-choco-en-morelos/">La Leyenda del Choco</a>
+    
+    <script src="scripts/main.js"></script>
+
+  </body>
+</html> 
